@@ -1,2 +1,5 @@
 == Playing with Sencha Ext JS
 
+=== Installed a new sencha app
+
+$ sencha --sdk ~/code/ext-4.2.0.663 generate app SenchaGame ./sencha
